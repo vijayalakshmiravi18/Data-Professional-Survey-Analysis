@@ -34,9 +34,13 @@ Designed interactive visuals for salary trends, language popularity, and career 
 ## Insights
 
 *Python dominates as the favorite programming language among data professionals.
+
 *Data Scientists and Architects earn the highest salaries; students and entry-level roles earn the least.
+
 *United States and India have the largest share of respondents.
+
 *Professionals are moderately happy with work-life balance but less satisfied with salary.
+
 *Breaking into data roles is considered challenging by most respondents.
 
 ## Final Conclusion
